@@ -1,0 +1,27 @@
+{
+  "id": "47e5df2c-9152-4421-b503-c4a10bc596ae",
+  "name": "Echo Service",
+  "publisher": "Qasim Ashraf",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 100000,
+      "to": 200000
+    }
+  ],
+  "runtime": "6.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
