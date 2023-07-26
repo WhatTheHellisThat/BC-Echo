@@ -1,4 +1,4 @@
-# Echo Service Business Central Extension
+# Echo Service - Business Central Extension
 
 ## Overview
 
