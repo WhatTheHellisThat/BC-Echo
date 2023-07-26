@@ -38,20 +38,6 @@ Once the Echo Service extension is installed, you can test the connection with B
 2. Perform a POST request to the endpoint with any desired data as the request payload.
 3. The Echo Service API will respond with the same data received in the request payload.
 
-Sample API call using cURL:
-
-```bash
-curl -X POST -H "Content-Type: application/json" -d '{"message": "Hello, Business Central!"}' https://your-business-central-instance.com/api/v1/echo-service
-```
-
-Expected response:
-
-```json
-{
-  "message": "Hello, Business Central!"
-}
-```
-
 ## Troubleshooting
 
 If you encounter any issues with the Echo Service extension or have trouble establishing a connection with Business Central, consider the following troubleshooting steps:
